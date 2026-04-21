@@ -23,6 +23,9 @@ A: You may cancel an order before it is dispatched without any charges...
 - Sentence Transformers
 - LangGraph
 
+## Live Demo
+Run locally using Streamlit.
+
 ## Run Locally
 
 ```bash
